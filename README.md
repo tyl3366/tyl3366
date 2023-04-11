@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"A young programmer who loves data science</h3>
 
-- 🌱 I’m currently learning **Data science with Python, C**
+- 🌱 I’m currently learning **C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
