@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3 align="center">A young programmer who loves data science</h3>
-
 - 🔭 I’m currently working on discord bots and machine learning in chess
 - 🌱 I’m currently learning C
 
