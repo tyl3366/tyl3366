@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on discord bots and machine learning in chess
+- 🔭 I love machine learning and data analysis
 - 🌱 I’m currently learning C
 
 
