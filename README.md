@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I love machine learning and data analysis
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 
 
 <h3 align="left">Languages and Tools:</h3>
